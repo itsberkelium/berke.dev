@@ -1,9 +1,9 @@
 {
   "name": "berke.dev",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "berke.dev",
-  "author": "Berke",
+  "author": "@itsberkelium",
   "keywords": [
     "gatsby"
   ],
