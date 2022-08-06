@@ -1,2 +1,3 @@
 # berke.dev
-Personal page @ berke.dev
+
+Personal page located @ berke.dev
